@@ -1,9 +1,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
       <a href="#Argument Impact Classification"><b>Argument Impact Classification</b></a>
-    </li>
     <li>
       <a href="##prerequisites">prerequisites</a>
     </li>

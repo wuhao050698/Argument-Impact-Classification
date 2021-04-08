@@ -1,16 +1,3 @@
-<details open="open">
-  <summary><h2 style="display: inline-block">Contents</h2></summary>
-  <ol>
-      <a href="#Argument Impact Classification"><b>Argument Impact Classification</b></a>
-    <li>
-      <a href="##prerequisites">prerequisites</a>
-    </li>
-    <li><a href="##Installation">Installation</a></li>
-    <li><a href="##Usage">Usage</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 # Argument Impact Classification

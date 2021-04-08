@@ -49,3 +49,6 @@ parameters:
 - learning_rate: learning rate
 - num_train_epochs: epochs
 
+## Authors
+WU, Hao
+CHAN, Chun Kit

@@ -43,16 +43,16 @@ Run in **Colab**(which can use the free gpu resource)
 !python run_bert.py --model_name_or_path roberta-large --use_fast_tokenizer False --train_file 'train.csv' --validation_file 'valid.csv' --do_train --do_eval --do_predict --test_file 'test.csv' --max_seq_length 100 --per_device_train_batch_size 32 --learning_rate 2e-5 --num_train_epochs 3 --output_dir 'roberta'
 ```
 parameters:
-- model_name_or_path: model(BERT/Roberta/Albert...)
-- train_file: training file
-- validation_file: validation file
-- test_file: test file
-- output_dir: output direction
-- max_seq_length: max sequence length
-- per_device_train_batch_size: batch size
-- learning_rate: learning rate
-- num_train_epochs: epochs
+* model_name_or_path: model(BERT/Roberta/Albert...)
+* train_file: training file
+* validation_file: validation file
+* test_file: test file
+* output_dir: output direction
+* max_seq_length: max sequence length
+* per_device_train_batch_size: batch size
+* learning_rate: learning rate
+* num_train_epochs: epochs
 
 ## Authors
-WU, Hao
-CHAN, Chun Kit
+* WU, Hao
+* CHAN, Chun Kit

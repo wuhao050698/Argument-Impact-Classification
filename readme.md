@@ -1,5 +1,5 @@
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Contents</h2></summary>
   <ol>
       <a href="#Argument Impact Classification"><b>Argument Impact Classification</b></a>
     <li>

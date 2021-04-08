@@ -2,13 +2,13 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#Argument Impact Classification">Argument Impact Classification</a>
+      <a href="#Argument Impact Classification">**Argument Impact Classification**</a>
     </li>
     <li>
-      <a href="#prerequisites">prerequisites</a>
+      <a href="##prerequisites">prerequisites</a>
     </li>
-    <li><a href="#Installation">Installation</a></li>
-    <li><a href="#Usage">Usage</a></li>
+    <li><a href="##Installation">Installation</a></li>
+    <li><a href="##Usage">Usage</a></li>
   </ol>
 </details>
 

@@ -3,7 +3,11 @@
 # Argument Impact Classification
 This project is for MSBD6000H project 1 Argument Impact Classification.
 
-It contains two models: fast-text and Roberta.
+It contains three python file:
+
+* FastText_model.py: FastText model
+* run_bert.py: Roberta model
+* ensemble.py: Esemble model
 
 ## Prerequisites
 python 3+

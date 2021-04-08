@@ -36,6 +36,8 @@ Run in **Colab**(which can use the free gpu resource)
 ```
 
 ## Usage
+### For Ensemble Model
+* change the result directory path and run the script in python3
 ### For FastText Model
 * change the dataset file path and run the script in python3
 ### For Bert Model
